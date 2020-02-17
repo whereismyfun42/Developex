@@ -6,11 +6,9 @@ C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\Develo
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\WebDriver.dll
-C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\WebDriver.Support.dll
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\WebDriver.xml
-C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\WebDriver.Support.xml
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\obj\Debug\DevelopexTests.csprojAssemblyReference.cache
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\obj\Debug\DevelopexTests.csproj.CopyComplete
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\obj\Debug\DevelopexTests.exe
@@ -93,3 +91,10 @@ C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\Develo
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\AngleSharp.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\WebDriverManager.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\AngleSharp.xml
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\where\OneDrive\Рабочий стол\xakep\Developex\Developex\DevelopexTests\DevelopexTests\bin\Debug\ICSharpCode.SharpZipLib.xml
