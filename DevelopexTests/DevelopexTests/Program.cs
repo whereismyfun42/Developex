@@ -10,6 +10,8 @@ namespace DevelopexTests
     {
         static void Main(string[] args)
         {
+            ChromeTest bug1 = new ChromeTest();
+            bug1.Bug6();
         }
     }
 }
